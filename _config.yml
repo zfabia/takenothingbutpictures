@@ -1,6 +1,6 @@
 # Site settings
-title: PHOTORAMA
-email: ""
+title: Take Nothing But Pictures
+email: "iamzaldy@outlook.com"
 description: "Photo Journal"
 url: "https://zfabia.github.io"
 baseurl: "/takenothingbutpictures"
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   zaldy fabia
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
