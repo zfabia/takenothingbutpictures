@@ -3,7 +3,7 @@ title: Take Nothing But Pictures
 email: "iamzaldy@outlook.com"
 description: "Photo Journal"
 url: "https://zfabia.github.io"
-baseurl: "/takenothingbutpictures"
+baseurl: "/zpyx"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://zfabia.github.io/takenothingbutpictures/gallery/"  
-  - JOURNAL: "https://zfabia.github.io/takenothingbutpictures/journal/"
-  - ABOUT: "https://zfabia.github.io/takenothingbutpictures/about/"
+  - GALLERY: "https://zfabia.github.io/zpyx/gallery/"  
+  - JOURNAL: "https://zfabia.github.io/zpyx/journal/"
+  - ABOUT: "https://zfabia.github.io/zpyx/about/"
 
 # All translation keys
 translations:
