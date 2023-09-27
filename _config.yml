@@ -1,9 +1,10 @@
 # Site settings
 title: Take Nothing But Pictures
 email: "iamzaldy@outlook.com"
-description: "Photo Journal"
+description: "Photo Gallery"
 url: "https://zfabia.github.io"
 baseurl: "/zpyx"
+owner: Zaldy Fabia
 facebook_username: "zfabia"
 twitter_username: "zaldyfabia"
 instagram_username: "zaldy.fabia"
