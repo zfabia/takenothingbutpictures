@@ -1,7 +1,7 @@
 # Site settings
 title: Take Nothing But Pictures
 email: "iamzaldy@outlook.com"
-description: "Photo Gallery"
+description: "Zaldy's Photo Gallery"
 url: "https://zfabia.github.io"
 baseurl: "/zpyx"
 owner_name: Zaldy Fabia
@@ -11,7 +11,7 @@ instagram_username: "zaldy.fabia"
 github_username:  "zfabia"
 # deviantart_username: ""
 flickr_username: "zaldy_fabia"
-discus_shortname: ""
+# discus_shortname: ""
 share: true
 
 # Owner/author information
@@ -28,7 +28,7 @@ owner:
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
 comments :
-  provider : disqus
+  provider : false
   disqus :
     short_name : ""
 
