@@ -1,5 +1,5 @@
-This is my first photo gallery made using jekyll.  the site is based on the Photorama theme.
-After this description is the full detail of the Photorama theme.
+This is my first photo gallery made using jekyll.  The site is based on the Photorama theme.
+Below is the full description and instructions on how to use the Photorama theme. 
 
 Thanks.
 zaldy
