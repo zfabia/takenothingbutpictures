@@ -7,8 +7,8 @@ image:
   feature: "pc005.jpg"
 date:       2016-03-05 
 header-img: "img/postcover/pc005.jpg"
-tags: [tag02]
-categories: [cat03]
+tags: [france]
+categories: [things]
 comments: false
 ---
 
