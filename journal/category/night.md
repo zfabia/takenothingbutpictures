@@ -1,6 +1,6 @@
 ---
 layout: "journal_by_category"
-category: "cat02"
-permalink: "/journal/category/cat02/"
+category: "night"
+permalink: "/journal/category/night/"
 header-img: "img/archive-bg.jpg"
 ---

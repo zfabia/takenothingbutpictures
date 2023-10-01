@@ -1,6 +1,6 @@
 ---
 layout: "journal_by_tag"
-tag: "tag02"
-permalink: "/journal/tag/tag02/"
+tag: "dubai"
+permalink: "/journal/tag/dubai/"
 header-img: "img/archive-bg.jpg"
 ---

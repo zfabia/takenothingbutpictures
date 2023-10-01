@@ -1,6 +1,6 @@
 ---
 layout: "journal_by_tag"
-tag: "tag03"
-permalink: "/journal/tag/tag03/"
+tag: "south korea"
+permalink: "/journal/tag/south-korea/"
 header-img: "img/archive-bg.jpg"
 ---
