@@ -1,6 +1,6 @@
 ---
 layout: "journal_by_category"
-category: "things"
-permalink: "/journal/category/things/"
+category: "Things"
+permalink: "/journal/category/Things/"
 header-img: "img/archive-bg.jpg"
 ---
