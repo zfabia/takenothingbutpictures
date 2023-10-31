@@ -9,7 +9,7 @@ date:       2016-03-01
 header-img: "img/postcover/pc006.jpg"
 tags: [Egypt]
 categories: [Travel]
-comments: false
+comments: "false"
 ---
 
 <p>"You're a sly dog!" said Passepartout, winking at him.</p>
