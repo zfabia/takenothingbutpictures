@@ -7,7 +7,7 @@ image:
   feature: "pc008.jpg"
 date: "2016-02-01"
 header-img: "img/postcover/pc008.jpg"
-comments: "true"
+comments: "false"
 ---
 
 <p>I would like to thank <a href="http://designyourownblog.com/about-dyob/">Marianne</a>, owner of <a href="http://designyourownblog.com/">DESIGN YOUR OWN BLOG</a> who gave me permission to link to her post where she is talking about blog image performance.</p>

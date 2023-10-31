@@ -7,8 +7,8 @@ image:
   feature: "pc001.jpg"
 date:       2016-03-25
 header-img: "img/postcover/pc001.jpg"
-tags: [People]
-categories: [Dubai]
+tags: [Dubai]
+categories:[People]
 comments: false
 ---
 

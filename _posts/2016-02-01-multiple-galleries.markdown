@@ -7,7 +7,7 @@ image:
   feature: "pc007.jpg"
 date: "2016-02-01"
 header-img: "img/postcover/pc007.jpg"
-comments: "true"
+comments: "false"
 gallery1: 
   - image_path: /img/galleries/g01/bg1.jpg
     image-caption: IMAGE TITLE
