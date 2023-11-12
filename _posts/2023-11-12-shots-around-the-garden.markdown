@@ -1,8 +1,8 @@
 ---
-layout: "post"
-title: "Taking A Closer Look at the Garden"
-subtitle: "Macro and Portrait Shots of Plants and Insects in the Garden"
-active: "journal"
+layout:"post"
+title:"Taking A Closer Look at the Garden"
+subtitle:"Macro and Portrait Shots of Plants and Insects in the Garden"
+active:"journal"
 image:
   feature: "pc001.jpg"
 date: "2023-11-12"
