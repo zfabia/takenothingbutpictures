@@ -1,14 +1,14 @@
 ---
-layout:"post"
-title:"Taking A Closer Look at the Garden"
-subtitle:"Macro and Portrait Shots of Plants and Insects in the Garden"
-active:"journal"
+layout: "post"
+title: "Taking A Closer Look at the Garden"
+subtitle: "Macro and Portrait Shots of Plants and Insects in the Garden"
+active: "journal"
 image:
   feature: "pc001.jpg"
 date: "2023-11-12"
 header-img: "img/postcover/pc001.jpg"
 tags: [Philippines]
-categories: [Things]
+categories: [Things][Macro][Portrait]
 comments: "false"
 gallery1: 
   - image_path: /gallery/archive/g003/bg01.jpg
