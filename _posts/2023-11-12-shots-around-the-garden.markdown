@@ -8,6 +8,7 @@ image:
 date: "2023-11-12"
 header-img: "img/postcover/pc001.jpg"
 tags: [Philippines]
+categories: [Macro, Portrait, Things]
 comments: "false"
 gallery1: 
   - image_path: /gallery/archive/g003/bg01.jpg
