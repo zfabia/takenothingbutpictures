@@ -7,7 +7,7 @@ image:
   feature: "pc001.jpg"
 date: 2023-11-12
 header-img: "img/postcover/pc001.jpg"
-tags: [philippines]
+tags: [Philippines]
 categories: [Things][Macro][Portrait]
 comments: "false"
 gallery1: 
