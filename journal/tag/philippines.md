@@ -1,6 +1,6 @@
 ---
 layout: "journal_by_tag"
-tag: "Dubai"
-permalink: "/journal/tag/dubai/"
+tag: "Philippines"
+permalink: "/journal/tag/philippines/"
 header-img: "img/archive-bg.jpg"
 ---
