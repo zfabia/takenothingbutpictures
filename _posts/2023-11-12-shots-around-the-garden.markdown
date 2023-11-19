@@ -33,6 +33,22 @@ gallery2:
   - image_path: /img/galleries/g001/insect.jpg
     image-caption: An Insect on the bushes
     image-copyright: © Zaldy Fabia
+gallery3:
+ - image_path: /gallery/archive/g003/img04.jpg
+   image-caption: Costus
+   image-copyright: © Zaldy Fabia
+ - image_path: /gallery/archive/g003/img05.jpg
+   image-caption: Costus
+   image-copyright: © Zaldy Fabia
+ - image_path: /gallery/archive/g003/img06.jpg
+   image-caption: A flower within a flower
+   image-copyright: © Zaldy Fabia
+ - image_path: /gallery/archive/g003/img07.jpg
+   image-caption: A yellow flower
+   image-copyright: © Zaldy Fabia
+ - image_path: /gallery/archive/g003/img08.jpg
+   image-caption: Yellow flowers
+   image-copyright: © Zaldy Fabia
 ---
 
 
@@ -67,6 +83,14 @@ gallery2:
            <!-- Gallery __-->
 			
 {% include subgallery.html id="gallery2" %}
+
+<!-- end of GALLERY __ -->
+
+<p> These are taken from Southwoods Mall in Binan City, Laguna.</p>
+
+           <!-- Gallery __-->
+			
+{% include subgallery.html id="gallery3" %}
 
 <!-- end of GALLERY __ -->
 
