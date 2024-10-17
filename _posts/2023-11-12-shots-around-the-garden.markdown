@@ -72,7 +72,7 @@ gallery3:
 <p> These are shots I made from our own backyard. </p>
 
 
-           <!-- Gallery __-->
+           <!-- Gallery 1-->
 			
 {% include subgallery.html id="gallery1" %}
 
@@ -80,7 +80,7 @@ gallery3:
 
 <p> These are taken from gardens around Tagaytay City.</p>
 
-           <!-- Gallery __-->
+           <!-- Gallery 2-->
 			
 {% include subgallery.html id="gallery2" %}
 
@@ -88,7 +88,7 @@ gallery3:
 
 <p> These are taken from Southwoods Mall in Binan City, Laguna.</p>
 
-           <!-- Gallery __-->
+           <!-- Gallery 3 -->
 			
 {% include subgallery.html id="gallery3" %}
 
