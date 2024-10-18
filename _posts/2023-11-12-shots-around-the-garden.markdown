@@ -13,42 +13,42 @@ comments: "false"
 gallery1: 
   - image_path: /gallery/archive/g003/bg01.jpg
     image-caption: Ants climbing the pot
-    image-copyright: © Zaldy Fabia
+    image-copyright: (cc by) Zaldy Fabia
   - image_path: /gallery/archive/g003/bg02.jpg
     image-caption: Plants from a Leaf
-    image-copyright: © Zaldy Fabia
+    image-copyright: (cc by) Zaldy Fabia
   - image_path: /gallery/archive/g003/bg03.jpg
     image-caption: Red Ant Getting Ready
-    image-copyright: © Zaldy Fabia
+    image-copyright: (cc by) Zaldy Fabia
   - image_path: /img/galleries/g001/bouganvilla-in-the-shadows.jpg
     image-caption: Bouganvilla Flower
-    image-copyright: © Zaldy Fabia
+    image-copyright: (cc by) Zaldy Fabia
   - image_path: /img/galleries/g001/flower_and_fern.jpg
     image-caption: Bouganvilla Flower on a Fern
-    image-copyright: © Zaldy Fabia
+    image-copyright: (cc by) Zaldy Fabia
   - image_path: /img/galleries/g001/red-flower.jpg
     image-caption: Portrait of a Red Flower
-    image-copyright: © Zaldy Fabia
+    image-copyright: (cc by) Zaldy Fabia
 gallery2: 
   - image_path: /img/galleries/g001/insect.jpg
     image-caption: An Insect on the bushes
-    image-copyright: © Zaldy Fabia
+    image-copyright: (cc by) Zaldy Fabia
 gallery3:
  - image_path: /gallery/archive/g003/img04.jpg
    image-caption: Costus
-   image-copyright: © Zaldy Fabia
+   image-copyright: (cc by) Zaldy Fabia
  - image_path: /gallery/archive/g003/img05.jpg
    image-caption: Costus
-   image-copyright: © Zaldy Fabia
+   image-copyright: (cc by) Zaldy Fabia
  - image_path: /gallery/archive/g003/img06.jpg
    image-caption: A flower within a flower
-   image-copyright: © Zaldy Fabia
+   image-copyright: (cc by) Zaldy Fabia
  - image_path: /gallery/archive/g003/img07.jpg
    image-caption: A yellow flower
-   image-copyright: © Zaldy Fabia
+   image-copyright: (cc by) Zaldy Fabia
  - image_path: /gallery/archive/g003/img08.jpg
    image-caption: Yellow flowers
-   image-copyright: © Zaldy Fabia
+   image-copyright: (cc by) Zaldy Fabia
 ---
 
 
