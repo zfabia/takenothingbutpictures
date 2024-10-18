@@ -7,8 +7,8 @@ image:
   feature: "pc002.jpg"
 date: 2024-10-19
 header-img: "img/postcover/pc002.jpg"
-tags: [Philippines]
-categories: [travel]
+tags: [Philippines, Tagaytay]
+categories: [Travel, Landscape, Outdoor]
 comments: "false"
 gallery1: 
   - image_path: /gallery/archive/g006/taal01.jpg
