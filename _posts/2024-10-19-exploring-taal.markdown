@@ -8,7 +8,7 @@ image:
 date: 2024-10-19
 header-img: "img/postcover/pc002.jpg"
 tags: [Philippines]
-categories: [Travel]
+categories: [travel]
 comments: "false"
 gallery1: 
   - image_path: /gallery/archive/g006/taal01.jpg
