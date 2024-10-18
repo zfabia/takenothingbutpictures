@@ -1,20 +1,24 @@
 ---
 layout: "post"
-title: "Taking A Closer Look at the Garden"
-subtitle: "Macro and Portrait Shots of Plants and Insects in the Garden"
+title: "Exploring Volcano Island"
+subtitle: "A Journey to the Heart of Taal"
 active: "journal"
 image:
-  feature: "pc001.jpg"
-date: 2023-11-12
-header-img: "img/postcover/pc001.jpg"
-tags: [Philippines]
-categories: [Macro, Portrait, Things]
+  feature: "pc002.jpg"
+date: 2024-10-19
+header-img: "img/postcover/pc002.jpg"
+tags: [Philippines, Taal, Tagaytay]
+categories: [Outdoor, Landscape, Places]
 comments: "false"
 gallery1: 
-  - image_path: /gallery/archive/g003/bg01.jpg
-    image-caption: Ants climbing the pot
+  - image_path: /gallery/archive/g006/taal01.jpg
+    image-caption: View of Taal Volcano from Tagaytay 
     image-copyright: (cc by) Zaldy Fabia
-  - image_path: /gallery/archive/g003/bg02.jpg
+  - image_path: /gallery/archive/g006/taal02.jpg
+    image-caption: View of Volcano Island 
+    image-copyright: (cc by) Zaldy Fabia
+gallery2:
+  - image_path: /img/galleries/g006/bg02.jpg
     image-caption: Plants from a Leaf
     image-copyright: (cc by) Zaldy Fabia
   - image_path: /gallery/archive/g003/bg03.jpg
