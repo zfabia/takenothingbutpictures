@@ -18,20 +18,20 @@ gallery1:
     image-caption: View of Volcano Island 
     image-copyright: (cc by) Zaldy Fabia
 gallery2:
-  - image_path: /img/galleries/g006/bg02.jpg
-    image-caption: Plants from a Leaf
+  - image_path: /img/galleries/g006/taal08.jpg
+    image-caption: A Bangka
     image-copyright: (cc by) Zaldy Fabia
-  - image_path: /gallery/archive/g003/bg03.jpg
-    image-caption: Red Ant Getting Ready
+  - image_path: /img/galleries/g006/taal09.jpg
+    image-caption: Parked Bangkas by the Lakeside 
     image-copyright: (cc by) Zaldy Fabia
-  - image_path: /img/galleries/g001/bouganvilla-in-the-shadows.jpg
-    image-caption: Bouganvilla Flower
+  - image_path: /img/galleries/g006/taal46.jpg
+    image-caption: Bangka Ride to the Island
     image-copyright: (cc by) Zaldy Fabia
-  - image_path: /img/galleries/g001/flower_and_fern.jpg
-    image-caption: Bouganvilla Flower on a Fern
+  - image_path: /img/galleries/g006/taal25.jpg
+    image-caption: A Bangka Going to the Island
     image-copyright: (cc by) Zaldy Fabia
-  - image_path: /img/galleries/g001/red-flower.jpg
-    image-caption: Portrait of a Red Flower
+  - image_path: /img/galleries/g006/taal42.jpg
+    image-caption: View of the Island from a Bangka
     image-copyright: (cc by) Zaldy Fabia
 gallery2: 
   - image_path: /img/galleries/g001/insect.jpg
@@ -81,7 +81,7 @@ gallery3:
 
 <!-- end of GALLERY 1 -->
 
-<p> These are taken from gardens around Tagaytay City.</p>
+<p> From there, I took a motorized boat, locally known as a bangka, across Taal Lake to reach Volcano Island.</p>
 
            <!-- Gallery 2-->
 			
