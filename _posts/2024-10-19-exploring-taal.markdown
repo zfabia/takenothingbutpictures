@@ -61,10 +61,10 @@ gallery5:
     image-caption: Fumarole
     image-copyright: (cc by) Zaldy Fabia
   - image_path: /img/galleries/g006/taal37.jpg
-    image-caption: Volcanic Smoke Coming Out of a Fumarole
+    image-caption: Volcanic Smoke Coming Out of a Small Fumarole
     image-copyright: (cc by) Zaldy Fabia
   - image_path: /img/galleries/g006/taal20.jpg
-    image-caption: olcanic Smoke Coming Out of a Fumarole
+    image-caption: Volcanic Smoke Coming Out of a Big Fumarole
     image-copyright: (cc by) Zaldy Fabia
 gallery6:
   - image_path: /img/galleries/g006/taal13.jpg
