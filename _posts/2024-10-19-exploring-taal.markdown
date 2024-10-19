@@ -72,7 +72,7 @@ gallery3:
 
 
 <p> Before the pandemic, Volcano Island in the middle of Taal Lake was accessible to everyone. Local residents and tourists alike flocked to this island to experience the thrill of climbing the inner volcano. Here’s a glimpse into my unforgettable trip to Volcano Island, nestled within the active Taal Volcano. </p>
-<br>
+
 <p> My journey began in Tagaytay, a city known for its stunning view of Taal Volcano. </p>
 
            <!-- Gallery 1-->
