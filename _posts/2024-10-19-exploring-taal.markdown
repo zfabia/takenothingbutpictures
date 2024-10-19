@@ -222,6 +222,8 @@ gallery7:
 
 <!-- end of GALLERY 7 -->
 
+<p> Sadly, due to the recent volcanic activity, Volcano Island is now off-limits. The government has declared it a “No Man’s Land,” prioritizing safety over exploration.</p>
 
+<p> I cherish the memories of my visit to Volcano Island, and while it’s no longer accessible, the stories of its beauty and power continue to captivate those who hear them.</p>
 		</div><!-- end of WRAPPER __ -->
 	</section>
