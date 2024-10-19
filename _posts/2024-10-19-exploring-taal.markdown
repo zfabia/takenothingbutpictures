@@ -79,6 +79,73 @@ gallery6:
   - image_path: /img/galleries/g006/taal35.jpg
     image-caption: Rocks and Plants
     image-copyright: (cc by) Zaldy Fabia
+gallery7:
+  - image_path: /img/galleries/g006/taal16.jpg
+    image-caption: Flora on the Island
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal21.jpg
+    image-caption: Flora on the Island
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal23.jpg
+    image-caption: Flora on the Island
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal24.jpg
+    image-caption: Flora on the Island
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal27.jpg
+    image-caption: Flora on the Island
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal33.jpg
+    image-caption: Flora on the Island
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal38.jpg
+    image-caption: Flora on the Island
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal39.jpg
+    image-caption: Flora on the Island
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal40.jpg
+    image-caption: Flora on the Island
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal41.jpg
+    image-caption: Flora on the Island
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal44.jpg
+    image-caption: Flora on the Island
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal45.jpg
+    image-caption: Flora on the Island
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal14.jpg
+    image-caption: Flora on the Island
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal17.jpg
+    image-caption: Flora on the Island
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal22.jpg
+    image-caption: Flora on the Island
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal26.jpg
+    image-caption: Flora on the Island
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal28.jpg
+    image-caption: Flora on the Island
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal31.jpg
+    image-caption: Flora on the Island
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal34.jpg
+    image-caption: Flora on the Island
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal43.jpg
+    image-caption: Flora on the Island
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal47.jpg
+    image-caption: Flora on the Island
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal48.jpg
+    image-caption: Flora on the Island
+    image-copyright: (cc by) Zaldy Fabia
 ---
 
 
@@ -145,7 +212,16 @@ gallery6:
 			
 {% include subgallery.html id="gallery6" %}
 
-<!-- end of GALLERY 5 -->
+<!-- end of GALLERY 6 -->
+
+<p> Upon reaching the top, the view was nothing short of spectacular. The inner lake of Taal Volcano stretched out before me, while the outer lake and surrounding landscape completed the breathtaking panorama.</p>
+
+           <!-- Gallery 7 -->
+			
+{% include subgallery.html id="gallery7" %}
+
+<!-- end of GALLERY 7 -->
+
 
 		</div><!-- end of WRAPPER __ -->
 	</section>
