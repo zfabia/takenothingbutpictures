@@ -66,6 +66,19 @@ gallery5:
   - image_path: /img/galleries/g006/taal20.jpg
     image-caption: olcanic Smoke Coming Out of a Fumarole
     image-copyright: (cc by) Zaldy Fabia
+gallery6:
+  - image_path: /img/galleries/g006/taal13.jpg
+    image-caption: Flora on the Island
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal18.jpg
+    image-caption: Viewing Deck on Top of the Volcano
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal30.jpg
+    image-caption: Rocky Trail
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal35.jpg
+    image-caption: Rocks and Plants
+    image-copyright: (cc by) Zaldy Fabia
 ---
 
 
