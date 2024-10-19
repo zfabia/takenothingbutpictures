@@ -56,6 +56,16 @@ gallery4:
   - image_path: /img/galleries/g006/taal36.jpg
     image-caption: Tourists Enjoying the Ride
     image-copyright: (cc by) Zaldy Fabia
+gallery5:
+  - image_path: /img/galleries/g006/taal32.jpg
+    image-caption: Fumarole
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal37.jpg
+    image-caption: Volcanic Smoke Coming Out of a Fumarole
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal20.jpg
+    image-caption: olcanic Smoke Coming Out of a Fumarole
+    image-copyright: (cc by) Zaldy Fabia
 ---
 
 
@@ -107,6 +117,22 @@ gallery4:
 {% include subgallery.html id="gallery4" %}
 
 <!-- end of GALLERY 4 -->
+
+<p>Along the winding trail, I encountered numerous fumaroles—steaming holes in the ground that offered a stark reminder of the island’s volcanic nature.</p>
+
+           <!-- Gallery 5 -->
+			
+{% include subgallery.html id="gallery5" %}
+
+<!-- end of GALLERY 5 -->
+
+<p> The journey was filled with other captivating sights, making every step worthwhile.</p>
+
+           <!-- Gallery 6 -->
+			
+{% include subgallery.html id="gallery6" %}
+
+<!-- end of GALLERY 5 -->
 
 		</div><!-- end of WRAPPER __ -->
 	</section>
