@@ -33,26 +33,17 @@ gallery2:
   - image_path: /img/galleries/g006/taal42.jpg
     image-caption: View of the Island from a Bangka
     image-copyright: (cc by) Zaldy Fabia
-gallery2: 
-  - image_path: /img/galleries/g001/insect.jpg
-    image-caption: An Insect on the bushes
+gallery3: 
+  - image_path: /img/galleries/g006/taal10.jpg
+    image-caption: It's Christmas on the Island
     image-copyright: (cc by) Zaldy Fabia
-gallery3:
- - image_path: /gallery/archive/g003/img04.jpg
-   image-caption: Costus
-   image-copyright: (cc by) Zaldy Fabia
- - image_path: /gallery/archive/g003/img05.jpg
-   image-caption: Costus
-   image-copyright: (cc by) Zaldy Fabia
- - image_path: /gallery/archive/g003/img06.jpg
-   image-caption: A flower within a flower
-   image-copyright: (cc by) Zaldy Fabia
- - image_path: /gallery/archive/g003/img07.jpg
-   image-caption: A yellow flower
-   image-copyright: (cc by) Zaldy Fabia
- - image_path: /gallery/archive/g003/img08.jpg
-   image-caption: Yellow flowers
-   image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal11.jpg
+    image-caption: Horses on the Island
+    image-copyright: (cc by) Zaldy Fabia
+gallery4:
+  - image_path: /img/galleries/g006/taal12.jpg
+    image-caption: Horses on the Island
+    image-copyright: (cc by) Zaldy Fabia
 ---
 
 
@@ -87,15 +78,23 @@ gallery3:
 			
 {% include subgallery.html id="gallery2" %}
 
-<!-- end of GALLERY __ -->
+<!-- end of GALLERY 2 -->
 
-<p> These are taken from Southwoods Mall in Binan City, Laguna.</p>
+<p> Upon arrival, I was greeted by the warm and friendly community residing there.</p>
 
            <!-- Gallery 3 -->
 			
 {% include subgallery.html id="gallery3" %}
 
-<!-- end of GALLERY __ -->
+<!-- end of GALLERY 3 -->
+
+<p> To reach the summit of the inner volcano, visitors had two options: a scenic walk or a horseback ride.</p>
+
+           <!-- Gallery 4 -->
+			
+{% include subgallery.html id="gallery4" %}
+
+<!-- end of GALLERY 4 -->
 
 		</div><!-- end of WRAPPER __ -->
 	</section>
