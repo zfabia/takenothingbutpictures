@@ -42,7 +42,19 @@ gallery3:
     image-copyright: (cc by) Zaldy Fabia
 gallery4:
   - image_path: /img/galleries/g006/taal12.jpg
-    image-caption: Horses on the Island
+    image-caption: Trail To The Top
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal15.jpg
+    image-caption: People and Horse Going To and From the Top
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal19.jpg
+    image-caption: Tourists Coming Down the Volcano
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal29.jpg
+    image-caption: Horses Ride to teh Top
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal36.jpg
+    image-caption: Tourists Enjoying the Ride
     image-copyright: (cc by) Zaldy Fabia
 ---
 
