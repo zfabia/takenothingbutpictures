@@ -81,70 +81,82 @@ gallery6:
     image-copyright: (cc by) Zaldy Fabia
 gallery7:
   - image_path: /img/galleries/g006/taal16.jpg
-    image-caption: Flora on the Island
+    image-caption: The Inner Lake from the Viewing Deck
     image-copyright: (cc by) Zaldy Fabia
-  - image_path: /img/galleries/g006/taal21.jpg
-    image-caption: Flora on the Island
+  - image_path: /gallery/archive/g006/taal04.jpg
+    image-caption: The Inner Lake from the Viewing Deck
     image-copyright: (cc by) Zaldy Fabia
-  - image_path: /img/galleries/g006/taal23.jpg
-    image-caption: Flora on the Island
+  - image_path: /gallery/archive/g006/taal05.jpg
+    image-caption: The Inner Lake from the Viewing Deck
     image-copyright: (cc by) Zaldy Fabia
-  - image_path: /img/galleries/g006/taal24.jpg
-    image-caption: Flora on the Island
+  - image_path: /gallery/archive/g006/taal06.jpg
+    image-caption: The Inner Lake from the Viewing Deck
     image-copyright: (cc by) Zaldy Fabia
-  - image_path: /img/galleries/g006/taal27.jpg
-    image-caption: Flora on the Island
+  - image_path: /gallery/archive/g006/taal07.jpg
+    image-caption: The Inner Lake from the Viewing Deck
     image-copyright: (cc by) Zaldy Fabia
   - image_path: /img/galleries/g006/taal33.jpg
-    image-caption: Flora on the Island
+    image-caption: The Inner Lake from the Viewing Deck
     image-copyright: (cc by) Zaldy Fabia
-  - image_path: /img/galleries/g006/taal38.jpg
-    image-caption: Flora on the Island
-    image-copyright: (cc by) Zaldy Fabia
-  - image_path: /img/galleries/g006/taal39.jpg
-    image-caption: Flora on the Island
-    image-copyright: (cc by) Zaldy Fabia
-  - image_path: /img/galleries/g006/taal40.jpg
-    image-caption: Flora on the Island
-    image-copyright: (cc by) Zaldy Fabia
-  - image_path: /img/galleries/g006/taal41.jpg
-    image-caption: Flora on the Island
-    image-copyright: (cc by) Zaldy Fabia
-  - image_path: /img/galleries/g006/taal44.jpg
-    image-caption: Flora on the Island
+    image-caption: The Inner Lake from the Viewing Deck
     image-copyright: (cc by) Zaldy Fabia
   - image_path: /img/galleries/g006/taal45.jpg
-    image-caption: Flora on the Island
+  - image_path: /img/galleries/g006/taal21.jpg
+    image-caption: Small Island on Taal's Inner Lake
     image-copyright: (cc by) Zaldy Fabia
-  - image_path: /img/galleries/g006/taal14.jpg
-    image-caption: Flora on the Island
+  - image_path: /img/galleries/g006/taal44.jpg
+    image-caption: Small Island on Taal's Inner Lake
     image-copyright: (cc by) Zaldy Fabia
-  - image_path: /img/galleries/g006/taal17.jpg
-    image-caption: Flora on the Island
+  - image_path: /img/galleries/g006/taal38.jpg
+    image-caption: People Enjoying the Inner Lake of Taal 
     image-copyright: (cc by) Zaldy Fabia
-  - image_path: /img/galleries/g006/taal22.jpg
-    image-caption: Flora on the Island
+  - image_path: /img/galleries/g006/taal23.jpg
+    image-caption: View of the Side of Taal's Main Creater from the Viewing Deck
     image-copyright: (cc by) Zaldy Fabia
-  - image_path: /img/galleries/g006/taal26.jpg
-    image-caption: Flora on the Island
+  - image_path: /img/galleries/g006/taal24.jpg
+    image-caption: Volcanic Smokes from the Ground
     image-copyright: (cc by) Zaldy Fabia
-  - image_path: /img/galleries/g006/taal28.jpg
-    image-caption: Flora on the Island
+  - image_path: /img/galleries/g006/taal27.jpg
+    image-caption: Volcanic Smokes from the Ground
     image-copyright: (cc by) Zaldy Fabia
-  - image_path: /img/galleries/g006/taal31.jpg
-    image-caption: Flora on the Island
+  - image_path: /img/galleries/g006/taal41.jpg
+    image-caption: Volcanic Smokes from the Ground
     image-copyright: (cc by) Zaldy Fabia
   - image_path: /img/galleries/g006/taal34.jpg
-    image-caption: Flora on the Island
+    image-caption: Volcanic Smokes from the Ground
     image-copyright: (cc by) Zaldy Fabia
-  - image_path: /img/galleries/g006/taal43.jpg
-    image-caption: Flora on the Island
+  - image_path: /img/galleries/g006/taal39.jpg
+    image-caption: Filling Up the Inner Lake
     image-copyright: (cc by) Zaldy Fabia
-  - image_path: /img/galleries/g006/taal47.jpg
-    image-caption: Flora on the Island
+  - image_path: /img/galleries/g006/taal40.jpg
+    image-caption: The Other Side of Taal's Main Creater
     image-copyright: (cc by) Zaldy Fabia
   - image_path: /img/galleries/g006/taal48.jpg
-    image-caption: Flora on the Island
+    image-caption: View From The Deck
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal17.jpg
+    image-caption: Fish Pens on the Outer Lake of Taal
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal22.jpg
+    image-caption: View of Taal Lake and Tagaytay from Volcano Island
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal26.jpg
+    image-caption: View of Taal Lake and Tagaytay from Volcano Island
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal43.jpg
+    image-caption: View of the Island and Outer Lake from the Viewing Deck
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal28.jpg
+    image-caption: Binintiang Malaki (Big Leg) from the Viewing Deck
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal31.jpg
+    image-caption: Binintiang Malaki (Big Leg)
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal14.jpg
+    image-caption: Trail View
+    image-copyright: (cc by) Zaldy Fabia
+  - image_path: /img/galleries/g006/taal47.jpg
+    image-caption: Trail View
     image-copyright: (cc by) Zaldy Fabia
 ---
 
