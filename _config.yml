@@ -18,7 +18,7 @@ share: true
 owner:
   name:   Zaldy Fabia
   avatar: avatar.png
-  favicon: favicon.ico
+  favicon: favicon.webp
   info: photography travel
 
 # Settings for comments helper
